@@ -1,0 +1,68 @@
+{
+  "project_info": {
+    "project_number": "123351926557",
+    "firebase_url": "https://mind-guide-7da1c-default-rtdb.firebaseio.com",
+    "project_id": "mind-guide-7da1c",
+    "storage_bucket": "mind-guide-7da1c.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:123351926557:android:afca89b09907ebd31703f4",
+        "android_client_info": {
+          "package_name": "com.example.mind_guide_ui"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDeMraVJD1aIwTXEc9uBFSCaYHZqRYjuG4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:123351926557:android:f4f86a93e0e4f2701703f4",
+        "android_client_info": {
+          "package_name": "com.mg.mindGuide"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDeMraVJD1aIwTXEc9uBFSCaYHZqRYjuG4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:123351926557:android:572dbacd341500e41703f4",
+        "android_client_info": {
+          "package_name": "com.sufyan.calmPath"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDeMraVJD1aIwTXEc9uBFSCaYHZqRYjuG4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
