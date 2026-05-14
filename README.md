@@ -25,13 +25,21 @@ The project focuses on combining **Artificial Intelligence**, **Mobile Applicati
 # ✨ Key Features
 
 ✅ Stress Level Prediction
+
 ✅ Depression Level Prediction
+
 ✅ AI-Powered Mental Health Assessment
+
 ✅ Online Psychiatrist Booking
+
 ✅ Video Consultation System
+
 ✅ Clinic Visit Scheduling
+
 ✅ Secure User Authentication
+
 ✅ Responsive & Interactive UI
+
 ✅ Full-Stack Mobile Application
 
 ---
